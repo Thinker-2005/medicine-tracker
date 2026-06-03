@@ -1,4 +1,4 @@
 package org.medicine.project
 
 fun sayHello(to: String): String =
-    "Hello, $to!"
+    "Welcome to Android, it is me, $to!"
